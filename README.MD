@@ -1,10 +1,10 @@
-# 👋🏿 Hi! I'm Lahad Dieng, Software Developer.
+## 👋🏿 Hi! I'm Lahad Dieng, Software Developer.
 
 
 - 🔭 Currently studying Software Engineering at Miami Univeristy.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🚀 I'm motivated by the opportunity to learn and grow through <br> exploring new technologies and staying abreast of the latest best practices.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis
+- 😄 Hang with family/friends and code in my free time.
 - 🌟 Learning:
   -  C/C++ developemt
   -  UI + UX design
@@ -13,7 +13,7 @@
 
 ### Bizness
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
+- 📫 How to reach me: diengca@miamioh.edu
 
 
 <details>
@@ -35,3 +35,5 @@
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" />
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710" />
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://www.peninfotech.com/img/logos/c%20logo.png" />
+<img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+<img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" />

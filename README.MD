@@ -9,21 +9,18 @@
   -  C/C++ developemt
   -  UI + UX design
   -  Data Structures & Algorithms using OOP
-- 📫 How to reach me: diengca@miamioh.edu
 
 ### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume](https://github.com/Diengca/Diengca/files/10328463/Lahad.s.Resume.pdf)
 - 📫 How to reach me: diengca@miamioh.edu
 
-
-<details>
 <summary>
   More stuff about me
 </summary>
 
 <br >
 
-// my story
+...
 
 </details>
 
@@ -36,4 +33,6 @@
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710" />
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://www.peninfotech.com/img/logos/c%20logo.png" />
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+
+<img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" />

@@ -1,7 +1,6 @@
 ## 👋🏿 Hi! I'm Lahad Dieng, Software Developer.
 
 
-
 - 🔭 Currently studying Software Engineering at Miami Univeristy.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🚀 I'm motivated by the opportunity to learn and grow through <br> exploring new technologies and staying abreast of the latest best practices.
@@ -16,10 +15,7 @@
 - :paperclip: [My Resume](https://github.com/Diengca/Diengca/blob/main/Resume.pdf)
 - 📫 Reach out to me: diengca@miamioh.edu
 
-
 <br >
-
-
 
 ### Programming Languages & Tools
 

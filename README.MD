@@ -13,7 +13,7 @@
 - 🇸🇳 Fun fact: I'm from Senegal, West Africa
 
 ### Bizness
-- :paperclip: [My Resume](https://github.com/Diengca/Diengca/files/10328463/Lahad.s.Resume.pdf)
+- :paperclip: [My Resume](https://github.com/Diengca/Diengca/blob/a6377897eeb0b6a73db90e70f394cb2576b50ece/README.MD)
 - 📫 How to reach me: diengca@miamioh.edu
 
 <summary>

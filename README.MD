@@ -30,10 +30,10 @@
 
 ### Programming Languages & Tools
 
-<img align="left" alt="icon" width="33px" padding-bottom="15px" src="" />
-<img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/py-logo.png" />
-<img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/mathem-logo.png" />
-<img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/u-logo.png" />
+<img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
+<img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" />
+<img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" />
+<img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710" />
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/cs-logo.png" />
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/cpp-logo.png" />
 <img align="left" alt="icon" width="33px" padding-bottom="15px" src="https://github.com/the-other-mariana/the-other-mariana/blob/master/images/c-logo.png" />

@@ -11,11 +11,11 @@
   -  Data Structures & Algorithms using OOP
 - 🇸🇳 Fun fact: I'm from Senegal, West Africa
 
+
 ### Bizness
 - :paperclip: [My Resume](https://github.com/Diengca/Diengca/blob/main/Resume.pdf)
 - 📫 Reach out to me: diengca@miamioh.edu
 
-<br >
 
 ### Programming Languages & Tools
 

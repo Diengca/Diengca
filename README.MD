@@ -14,17 +14,11 @@
 
 ### Bizness
 - :paperclip: [My Resume](https://github.com/Diengca/Diengca/blob/main/Resume.pdf)
-- 📫 How to reach me: diengca@miamioh.edu
+- 📫 Reach out to me: diengca@miamioh.edu
 
-<summary>
-  More stuff about me
-</summary>
 
 <br >
 
-...
-
-</details>
 
 
 ### Programming Languages & Tools

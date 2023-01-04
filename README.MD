@@ -13,7 +13,7 @@
 
 
 ### Bizness
-- :paperclip: [My Resume](https://github.com/Diengca/Diengca/blob/main/Resume.pdf)
+- :paperclip: [My Resume](https://github.com/Diengca/Diengca/blob/main/My%20Resume.pdf)
 - 📫 Reach out to me: diengca@miamioh.edu
 
 

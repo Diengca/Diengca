@@ -9,7 +9,7 @@
   -  C/C++ developemt
   -  UI + UX design
   -  Data Structures & Algorithms using OOP
-- 🇸🇳 Fun fact: I'm from Senegal, West Africa.
+- 🇸🇳 Fun fact: I'm a first-gen student from Senegal, West Africa.
 
 
 ### Bizness

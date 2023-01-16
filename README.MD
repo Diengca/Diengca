@@ -4,7 +4,7 @@
 - 🔭 Currently studying Software Engineering at Miami Univeristy.
 - :computer: Most used line of code `System.out.println();`
 - 🚀 I'm motivated by the opportunity to learn and grow through <br> exploring new technologies and staying abreast of the latest best practices.
-- 😄 Hang with family/friends and code in my free time.
+- 😄 I enjoy hanging with family/friends and code in my free time.
 - 🌟 Learning:
   -  C/C++ developemt
   -  UI + UX design

@@ -14,7 +14,7 @@
 
 ### Bizness
 - :paperclip: [My Resume](https://github.com/Diengca/Diengca/blob/main/Lahad%20Dieng%20-%20Resume%20-%202023.pdf)
-- 📫 Reach out to me: diengca@miamioh.edu
+- 📫 Reach out to me: laatb.pro@gmail.com
 
 
 ### Programming Languages & Tools

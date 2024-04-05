@@ -13,7 +13,7 @@
 
 
 ### Bizness
-- :paperclip: [My Resume](https://github.com/Diengca/Diengca/blob/main/Lahad%20Dieng%20-%20Resume%20-%202023.pdf)
+- :paperclip: [My Resume](https://github.com/Diengca/Diengca/blob/main/Cheikh%20Dieng%20-%20Resume%20-%202023.pdf)
 - 📫 Reach out to me: laatb.pro@gmail.com
 
 
